@@ -153,6 +153,14 @@ nav ul {
   padding: 0 10px;
 }
 
+h2 {
+  display: none;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
 section {
   display: grid;
 }
@@ -236,7 +244,7 @@ main section:nth-child(10) article {
   height: 20vh;
 }
 
-main section:nth-child(10) article h2,
+main section:nth-child(10) article h3,
 main section:nth-child(10) article p {
   width: 60vw;
 }
