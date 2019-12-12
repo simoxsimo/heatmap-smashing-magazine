@@ -5,7 +5,7 @@
     <img alt="License: MIT " src="https://img.shields.io/badge/License-MIT -yellow.svg" />
   </a>
   <a href="https://twitter.com/ClintonEnyinna" target="_blank">
-    <img alt="Twitter: ClintonEnyinna " src="https://img.shields.io/twitter/follow/Flakster .svg?style=social" />
+    <img alt="Twitter: ClintonEnyinna " src="https://img.shields.io/twitter/follow/ClintonEnyinna .svg?style=social" />
   </a>
   <a href="https://twitter.com/MohammedTouili " target="_blank">
     <img alt="Twitter: MohammedTouili " src="https://img.shields.io/twitter/follow/MohammedTouili .svg?style=social" />
@@ -28,7 +28,7 @@
 ## ⭐️ [Live demo](https://rawcdn.githack.com/ClintonEnyinna/heatmap-smashing-magazine/aad17691009ad84ac0eee65f2e0103c234c51ad3/index.html)
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/54779750/70736948-13906d00-1cd7-11ea-85af-c29141329f1c.png)
+![image](https://user-images.githubusercontent.com/57480558/70737675-fbd2dc00-1d0a-11ea-9c1e-5053705a7be6.png)
 
 ## Author
 
