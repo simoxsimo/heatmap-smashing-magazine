@@ -25,7 +25,7 @@
 
 ## 🏠 [Homepage](https://github.com/ClintonEnyinna/heatmap-smashing-magazine)
 
-## ⭐️ [Live demo](https://rawcdn.githack.com/ClintonEnyinna/heatmap-smashing-magazine/aad17691009ad84ac0eee65f2e0103c234c51ad3/index.html)
+## ⭐️ [Live demo](https://rawcdn.githack.com/ClintonEnyinna/heatmap-smashing-magazine/0f4a1789d35ef96aa600f945805496e5e6302e37/index.html)
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/57480558/70737675-fbd2dc00-1d0a-11ea-9c1e-5053705a7be6.png)
