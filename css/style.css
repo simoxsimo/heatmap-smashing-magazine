@@ -20,6 +20,7 @@ body {
   font-size: 14px;
   vertical-align: baseline;
   background: transparent;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 div,
@@ -146,6 +147,13 @@ nav ul {
   list-style: none;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 10px;
+}
+
 section {
   display: grid;
 }
@@ -176,30 +184,30 @@ div.more-info {
   background-color: gray;
 }
 
-article {
+article,
+div {
   border: var(--border);
-}
-
-main section:nth-child(2) article {
   background-color: gray;
+  padding: 2px 0;
 }
 
 main section:nth-child(3) {
   height: 50vh;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  background-color: gray;
 }
 
 main section:nth-child(4) {
   height: 50vh;
   grid-template-columns: 2fr 1fr 1fr;
-  background-color: gray;
 }
 
 main section:nth-child(5) {
   height: 50vh;
   grid-template-columns: 1fr 1fr 2fr;
-  background-color: gray;
+}
+
+.border-radius {
+  border-radius: 20px;
 }
 
 main section:nth-child(7) {
@@ -210,5 +218,71 @@ main section:nth-child(7) {
   justify-content: center;
   text-align: center;
   padding: 100px;
-  background-color: gray;
+}
+
+main section:nth-child(8) {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  height: 180vh;
+}
+
+.person-week {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+main section:nth-child(10) article {
+  padding: 40px 20px;
+  height: 20vh;
+}
+
+main section:nth-child(10) article h2,
+main section:nth-child(10) article p {
+  width: 60vw;
+}
+
+main section:nth-child(11) {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: 60vh;
+}
+
+main section:nth-child(12),
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main section:nth-child(12) {
+  margin: 0 auto;
+  height: 120vh;
+  width: 90vw;
+}
+
+footer {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+footer ul {
+  display: flex;
+  padding-top: 100px;
+}
+
+li {
+  width: 10vw;
+}
+
+.big-container {
+  background-color: #272727;
+  color: white;
+}
+
+.medium-container {
+  background-color: #535353;
+  color: #ccc;
 }
